@@ -1,6 +1,6 @@
 x = 1
 while x < 10
-  puts "{number} SECOND(S)!""
+  puts "#{10} SECOND(S)!""
   x += 1
 end
 
